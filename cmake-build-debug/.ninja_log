@@ -1,0 +1,15 @@
+# ninja log v5
+23	1057	7385558332666804	CMakeFiles/untitled1.dir/Guerrero.cpp.obj	1577b7c5663f262a
+620	903	7385559491522816	untitled1.exe	ace2859cb42301f1
+1	1062	7385558332666804	CMakeFiles/untitled1.dir/Persona.cpp.obj	131d6d8d60937c14
+1	619	7385559489676382	CMakeFiles/untitled1.dir/main.cpp.obj	def430c15d16fb8c
+15	1053	7385558332511293	CMakeFiles/untitled1.dir/Filosofo.cpp.obj	e1037e8a03d232e4
+13	718	7385592417140087	CMakeFiles/untitled1.dir/General.cpp.obj	5023bfc12a11f152
+8	811	7385592418096914	CMakeFiles/untitled1.dir/Comandante.cpp.obj	12587292e1e8e57e
+1	1111	7385592421135580	CMakeFiles/untitled1.dir/main.cpp.obj	def430c15d16fb8c
+1111	1536	7385592424475139	untitled1.exe	70e4319228313b04
+1	609	7385592875122265	CMakeFiles/untitled1.dir/main.cpp.obj	def430c15d16fb8c
+610	924	7385592877189946	untitled1.exe	70e4319228313b04
+9	1020	7385605526618142	CMakeFiles/untitled1.dir/General.cpp.obj	5023bfc12a11f152
+1	1078	7385605527174943	CMakeFiles/untitled1.dir/main.cpp.obj	def430c15d16fb8c
+1078	1361	7385605529366071	untitled1.exe	70e4319228313b04

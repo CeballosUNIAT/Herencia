@@ -1,0 +1,3 @@
+D:/Trabajos/Semestre 2/Programacion 2/Herencia/cmake-build-debug/CMakeFiles/untitled1.dir
+D:/Trabajos/Semestre 2/Programacion 2/Herencia/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Trabajos/Semestre 2/Programacion 2/Herencia/cmake-build-debug/CMakeFiles/rebuild_cache.dir
